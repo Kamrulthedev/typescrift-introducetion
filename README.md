@@ -11,12 +11,15 @@
  ## 3.Transpiling to JavaScript:
  #### TypeScript code needs to be "transpiled" to JavaScript to run in browsers or Node.js environments. The TypeScript Compiler (tsc) converts TypeScript code into JavaScript, ensuring compatibility with any environment where JavaScript runs.
 
- ## Advanced Features:
+ ## 4.Advanced Features:
  ### TypeScript includes features like:
  ####      .Interfaces: Define contracts for classes or objects.
  ####      .Enums: Create enumerated types for fixed sets of values.
  ####      .Generics: Write flexible code that works with different types.
  ####      .Namespaces and Modules: Organize code into logical units.
  ####      .Decorators: Add metadata or functionality to classes, methods, or properties.
- ## 6.Enhanced Tooling and IDE Support:
+ ## 5.Enhanced Tooling and IDE Support:
  #### TypeScript's static typing enables better tooling in integrated development environments (IDEs) and editors. Features like code autocompletion, error highlighting, and refactoring are greatly improved with TypeScript.
+
+ ## 6.Popular in Large Projects:
+ #### TypeScript is widely used in large-scale projects and by major companies. Frameworks like Angular are written in TypeScript, and many other popular frameworks and libraries have TypeScript type definitions for better integration and type safety.
