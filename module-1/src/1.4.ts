@@ -10,7 +10,7 @@ roolNambar = 323333333333333333
 
 
 //boolean
-const isAdmin : boolean = true;
+const isAdmin : boolean = false;
 
 //null
 const x :null = null;
